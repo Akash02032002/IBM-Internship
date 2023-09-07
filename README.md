@@ -2,6 +2,10 @@
 
 Snapchat's custom login web pages redesign.
 
+Snapchat Login Page :-
+
+https://accounts.snapchat.com/accounts/v2/login
+
 Project:- { Snapchat’s custom login web page redesign }
 
 Github link:-  https://github.com/Akash02032002/IBM-Internship/
