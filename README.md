@@ -8,7 +8,7 @@ Github link:-  https://github.com/Akash02032002/IBM-Internship-Project/
 
 Live Hosted project link:-
 
-https://ibm-internship-project.vercel.app
+https://akash02032002.github.io/IBM-Internship/
 
 Video Demo link:-
 
