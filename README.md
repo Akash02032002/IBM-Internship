@@ -4,11 +4,11 @@ Snapchat's custom login web pages redesign.
 
 Project:- { Snapchat’s custom login web page redesign }
 
-Github link:-  https://github.com/Akash02032002/IBM-Internship-Project/
+Github link:-  https://github.com/Akash02032002/IBM-Internship/
 
 Live Hosted project link:-
 
-https://ibm-internship-project.vercel.app
+https://akash02032002.github.io/IBM-Internship/
 
 Video Demo link:-
 
